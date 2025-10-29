@@ -18,7 +18,7 @@
     });
     let img = new Image;
     img.src = "https://raw.githubusercontent.com/05Konz/Blooket-Cheats/main/autoupdate/timestamps/brawl/invincibility.png?" + Date.now();
-    img.crossOrigin = "Anonymous";
+    img.crossOrigin = "mason67";
     img.onload = function() {
         const c = document.createElement("canvas");
         const ctx = c.getContext("2d");
